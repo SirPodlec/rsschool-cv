@@ -23,3 +23,11 @@ There is no code yet
 ## Work experience:
 
 <https://SirPodlec.github.io/rsschool-cv/cv>
+
+## Education:
+
+Secondary special. Technician-technologist by specialty: Machines and technology of processing materials by pressure. Technician-technologist, specialization: Forging and stamping production.
+
+## Languages:
+
+Russian, English A1
