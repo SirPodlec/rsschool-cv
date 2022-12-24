@@ -1,1 +1,90 @@
-style
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  color: 000;
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h1, h2 {
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  font-size: 25px;
+  padding: 0 20px;
+  line-height: 50px;
+  background-color: rgb(247, 247, 247);
+}
+
+.container {
+  display: flex;
+  width: 1360px;
+  margin: 0 auto;
+}
+
+.container1 {
+  display: flex;
+  height: 280px;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.ava {
+  width: 230px;
+  height: 230px;
+  margin: 10px;
+  border-radius: 120px/120px;
+  box-shadow: 0 2 5px rgba(0,0,0,0.5);
+}
+
+.name {
+  width: 800px;
+  height: 100px;
+  margin: 50px;
+  font-size: 30px;
+}
+
+.right1, .right2, .right3 {
+  float: right;
+  width: 620px;
+  height: 145px;
+  background-color: rgb(228, 228, 228);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px/20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.left1, .left2, .left3, .left4 {
+  width: 620px;
+  height: 145px;
+  background-color: rgb(228, 228, 228);
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px/20px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  line-height: 50px;
+  font-size: 25px;
+}
+
+.logo {
+  width: 160px;
+  height: 60px;
+}
